@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_tab"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/nav_icon"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_instagram_tab"
+        android:id="@+id/nav_icon"/>
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="5dp"
+        android:text="@string/instagram"
+        android:fontFamily="@font/heebo_regular"
+        android:textColor="@drawable/tab_text_color_selector"
+        android:textSize="@dimen/txt_14sp"  />
+
+</LinearLayout>
+

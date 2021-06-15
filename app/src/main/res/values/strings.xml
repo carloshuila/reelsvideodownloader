@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Reels Video Downloader</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_native_ad">/6499/example/native</string>
+
+    <string name="app_not_available">App Not Available.</string>
+    <string name="step">1. Open Instagram Reel and click on 3 dots</string>
+    <string name="step_1">1. Open Instagram Reel and click on this</string>
+    <string name="step_2">2. Copy Link &amp; Paste on Reel Downloader</string>
+    <string name="howToDownload">How to Download</string>
+    <string name="step_more">You can also share link on Reels Video Downloader :</string>
+    <string name="cancel">Cancel</string>
+    <string name="chip_text">Chip text</string>
+    <string name="delete">Delete</string>
+    <string name="do_u_want_to_dlt">Do you want to delete?</string>
+    <string name="do_u_want_to_download_media_from_pvt">Don\'t Want to Download Media from Private Account?</string>
+    <string name="download">Download</string>
+    <string name="download_complete">Download Completed</string>
+    <string name="download_from_private_account">Download from Private Account</string>
+    <string name="download_started">Download Started</string>
+
+    <string name="downloading">Downloading...</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="enter_valid_url">Enter Valid Url</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="file_deleted">File Deleted.</string>
+    <string name="gallery">Gallery</string>
+    <string name="gallery_name">Gallery</string>
+
+    <string name="getting_downloading_link">Getting Downloading Link...</string>
+    <string name="how_to_download">How to Download</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="images">Images</string>
+    <string name="insta_app_name">Save Photos &amp; Videos</string>
+    <string name="insta_tag">Download Instagram Images &amp; Videos</string>
+    <string name="login">Login</string>
+    <string name="more_app_name">More App</string>
+    <string name="more_app_tag">View Our Other Creations</string>
+    <string name="no">No</string>
+    <string name="no_app_installed">No application found to open this file.</string>
+    <string name="no_internet_conn">No Internet Connection</string>
+    <string name="no_result_found">No Result Found</string>
+
+    <string name="paste_link_tittle">Paste Share URL Here</string>
+    <string name="paste">Paste</string>
+    <string name="paste_link">Paste Link</string>
+    <string name="rate_app_name">Rate App</string>
+
+
+    <string name="saved_to">Saved to:</string>
+    <string name="saved">Save</string>
+
+
+    <string name="share">Share</string>
+    <string name="share_app_message">Reels Video Downloader For Instagram Helps You To Download Photos &amp; Videos</string>
+    <string name="share_app_name">Share App</string>
+    <string name="share_app_tag">Share App with Your Friends</string>
+    <string name="share_image_via">Share File via...</string>
+    <string name="share_txt">Hey view/download this image</string>
+    <string name="stories">Stories</string>
+
+    <string name="title">Download Post &amp; Reels</string>
+    <string name="videos">Videos</string>
+    <string name="view_stories">View Stories and Download from Private Account</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_app_name">WhatsApp</string>
+    <string name="whatsapp_not_installed">Whtasapp not installed.</string>
+    <string name="whatsapp_tag">Save Whatsapp Status Image &amp; Videos</string>
+    <string name="yes">Yes</string>
+    <string name="pls_bck_again">Please click BACK again to exit</string>
+    <string name="How_totext">How To Download</string>
+    <string name="instagram">Instagram</string>
+    <string name="enterInstagramUrl">Paste Share URL Here</string>
+
+    <string name="common_permission_hint">Authorization prompt</string>
+    <string name="common_permission_message">To use this function, you need to grant permission first</string>
+    <string name="common_permission_granted">Grant</string>
+    <string name="common_permission_denied">cancel</string>
+
+    <string name="common_permission_alert">Authorization reminder</string>
+    <string name="common_permission_fail_1">Authorization failed, please grant permissions correctly</string>
+    <string name="common_permission_fail_2">Failed to obtain permission, please grant permission manually</string>
+    <string name="common_permission_fail_3">Failed to obtain permission, please manually grant%s</string>
+    <string name="common_permission_fail_4">No background positioning permission is granted, please select "Always Allow"</string>
+    <string name="common_permission_goto">Settings</string>
+
+
+    <string name="common_permission_storage">Storage permissions</string>
+    <string name="common_permission_setting">System setting permissions</string>
+    <string name="ok">Ok</string>-->
+
+</resources>

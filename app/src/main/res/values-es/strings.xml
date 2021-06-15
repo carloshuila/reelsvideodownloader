@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Reels Video Downloader</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_native_ad">/6499/example/native</string>
+
+    <string name="app_not_available">Aplicación no disponible.</string>
+    <string name="step">1. Abra Instagram Reels y haga clic en los 3 puntos</string>
+    <string name="step_1">1. Abra y seleccione Instagram Reels</string>
+    <string name="step_2">2. Copiar el enlace &amp;  Pega en el descargador de Reels</string>
+    <string name="howToDownload">Cómo descargar</string>
+    <string name="step_more">También puede compartir el enlace en Reels Video Downloader :</string>
+    <string name="cancel">Cancelar</string>
+    <string name="chip_text">Texto de fichas</string>
+    <string name="delete">Eliminar</string>
+    <string name="do_u_want_to_dlt">¿Quieres eliminar?</string>
+    <string name="do_u_want_to_download_media_from_pvt">¿No desea descargar medios de una cuenta privada?</string>
+    <string name="download">Descargar</string>
+    <string name="download_complete">Descarga completa</string>
+    <string name="download_from_private_account">Descargar desde una cuenta privada</string>
+    <string name="download_started">Descarga iniciada</string>
+
+    <string name="downloading">Descargando...</string>
+    <string name="enter_url">Ingresar Url</string>
+    <string name="enter_valid_url">Ingrese una Url válida</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="error_occurred">Se produjo un error</string>
+    <string name="file_deleted">Archivo eliminado.</string>
+    <string name="gallery">Galería</string>
+    <string name="gallery_name">Galería</string>
+
+    <string name="getting_downloading_link">Obteniendo el enlace de descarga...</string>
+    <string name="how_to_download">Cómo descargar</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="images">Imágenes</string>
+    <string name="insta_app_name">Guardar fotos &amp; Vídeos</string>
+    <string name="insta_tag">Descargar imágenes de Instagram &amp; Vídeos</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="more_app_name">Más aplicaciones</string>
+    <string name="more_app_tag">Ver nuestras otras creaciones</string>
+    <string name="no">No</string>
+    <string name="no_app_installed">No se encontró ninguna aplicación para abrir este archivo.</string>
+    <string name="no_internet_conn">Sin conexión a Internet</string>
+    <string name="no_result_found">No se han encontrado resultados</string>
+
+    <string name="paste_link_tittle">Pegar URL aquí</string>
+    <string name="paste">Pegar</string>
+    <string name="paste_link">Pegar Link</string>
+    <string name="rate_app_name">Calificar App</string>
+
+
+    <string name="saved_to">Guardado en:</string>
+    <string name="saved">Guardar</string>
+
+    <string name="share">Compartir</string>
+    <string name="share_app_message">Reels Video Downloader para Instagram te ayuda a descargar fotos &amp; Vídeos</string>
+    <string name="share_app_name">Compartir aplicación</string>
+    <string name="share_app_tag">Comparte la aplicación con tus amigos</string>
+    <string name="share_image_via">Compartir archivo a través de...</string>
+    <string name="share_txt">Oye Quieres/descargar esta imagen</string>
+    <string name="stories">Historias</string>
+
+    <string name="title">Descargar desde Instagram</string>
+    <string name="videos">Vídeos</string>
+    <string name="view_stories">Ver historias y descargar desde una cuenta privada</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_app_name">WhatsApp</string>
+    <string name="whatsapp_not_installed">Whatsapp no instalado.</string>
+    <string name="whatsapp_tag">Guardar imagen de estado de Whatsapp &amp; Vídeos</string>
+    <string name="yes">Si</string>
+    <string name="pls_bck_again">Vuelva hacer clic en ATRÁS para salir.</string>
+    <string name="How_totext">Cómo descargar</string>
+    <string name="instagram">Instagram</string>
+    <string name="enterInstagramUrl">Pegar compartir URL aquí</string>
+
+    <string name="common_permission_hint">Solicitud de autorización</string>
+    <string name="common_permission_message">Para usar esta función, primero debe otorgar permiso</string>
+    <string name="common_permission_granted">Permitir</string>
+    <string name="common_permission_denied">Cancelar</string>
+
+    <string name="common_permission_alert">Recordatorio de autorización</string>
+    <string name="common_permission_fail_1">Error de autorización, conceda los permisos correctamente</string>
+    <string name="common_permission_fail_2">No se pudo obtener el permiso, otorgue el permiso manualmente</string>
+    <string name="common_permission_fail_3">No se pudo obtener el permiso, otorgue manualmente</string>
+    <string name="common_permission_fail_4">No se concede ningún permiso de posicionamiento en segundo plano, seleccione "Permitir siempre"</string>
+    <string name="common_permission_goto">Ajustes</string>
+
+
+    <string name="common_permission_storage">Permisos de almacenamiento</string>
+    <string name="common_permission_setting">Permisos de configuración del sistema</string>
+    <string name="ok">Ok</string>-->
+</resources>
